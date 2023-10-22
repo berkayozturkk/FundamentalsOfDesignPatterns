@@ -17,7 +17,7 @@ public class ShoppingCart
         //Logic
         if (totalAmount < 100)
             paypalPayment.ProcessPayment(totalAmount);
-        else if (totalAmount < 100)
+        else if (totalAmount > 100)
             creditCartPayment.ProcessPayment(totalAmount);
     }
 }
