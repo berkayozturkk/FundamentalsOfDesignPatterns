@@ -5,7 +5,9 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BehavioralPatterns", "BehavioralPatterns", "{1C0AD8F2-06B1-4B3A-9C0F-A12CD125170C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strategy.csproj", "{01409513-ABD2-4491-98F2-18E310C2E1D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strategy", "Strategy\Strategy.csproj", "{01409513-ABD2-4491-98F2-18E310C2E1D3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StructuralPatterns", "StructuralPatterns", "{F3C99C21-0CBF-4D4C-8406-6A3C1DD39720}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
